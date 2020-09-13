@@ -1,5 +1,5 @@
 # off the hook raffle
-A Script To Genereate Target Accounts Using Selenium
+A Script To Enter OffTheHook Raffle
 
 Steps To Get Started
 
